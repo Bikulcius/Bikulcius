@@ -25,7 +25,7 @@
 - 👨‍💻 Contribuir com projetos reais e com equipes de tecnologia
 
 ---
-<div class="tenor-gif-embed" data-postid="4081143234914914503" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/java-programming-gif-4081143234914914503">Java Programming GIF</a>from <a href="https://tenor.com/search/java-gifs">Java GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="4081143234914914503" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/java-programming-gif-4081143234914914503">Java Programming GIF</a>from <a href="https://tenor.com/search/java-gifs">Java GIFs</a></div>
 ### 🧰 Tecnologias que estou estudando
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
